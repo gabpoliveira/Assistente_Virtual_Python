@@ -1,4 +1,4 @@
-# Assistente-Virtual-Python (Reconhecimento de Voz + Resposta por Voz)
+# Assistente Virtual Python (Reconhecimento de Voz + Resposta por Voz)
 
 Este projeto é um pequeno assistente virtual em Python que:
 -Escuta o usuário através do microfone;
