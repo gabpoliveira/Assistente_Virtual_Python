@@ -1,5 +1,7 @@
 # Assistente Virtual Python (Reconhecimento de Voz + Resposta por Voz)
 
+(Em desenvolvimento)
+
 Este projeto é um pequeno assistente virtual em Python que:
 -Escuta o usuário através do microfone;
 -Reconhece o que foi dito usando a API do Google;
